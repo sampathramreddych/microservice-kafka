@@ -1,0 +1,6 @@
+com\ewolff\microservice\order\kafka\OrderKafkaTest.class
+com\ewolff\microservice\order\OrderTestDataGenerator.class
+com\ewolff\microservice\order\kafka\KafkaListenerBean.class
+com\ewolff\microservice\order\logic\OrderServiceTest.class
+com\ewolff\microservice\order\logic\OrderWebIntegrationTest.class
+com\ewolff\microservice\order\OrderTestApp.class

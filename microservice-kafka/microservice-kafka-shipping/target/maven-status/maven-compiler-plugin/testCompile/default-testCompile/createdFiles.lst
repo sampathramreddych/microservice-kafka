@@ -1,0 +1,4 @@
+com\ewolff\microservice\shipping\ShippingServiceTest.class
+com\ewolff\microservice\shipping\ShipmentKafkaTest.class
+com\ewolff\microservice\shipping\ShippingTestApp.class
+com\ewolff\microservice\shipping\ShippingWebIntegrationTest.class
